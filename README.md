@@ -1,5 +1,5 @@
 # IsItWindier
-RadTeam first data science project
+TwoBirdData first data science project
 
 Recent research identified a potential turning point in global terrestrial stilling at 2010.
 This investigation used global wind data to create a dataset and confirm a reversal in global terrestrial stilling using linear regression, finding an increase in windspeed of 7% from 2010 to 2020. 
